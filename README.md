@@ -1,5 +1,9 @@
 # ember-setp
 
+[![Build Status](https://travis-ci.org/davewasmer/ember-setp.svg?branch=master)](https://travis-ci.org/davewasmer/ember-setp)
+[![Dependency Status](https://david-dm.org/davewasmer/ember-setp.svg)](https://david-dm.org/davewasmer/ember-setp)
+[![devDependency Status](https://david-dm.org/davewasmer/ember-setp/dev-status.svg)](https://david-dm.org/davewasmer/ember-setp#info=devDependencies)
+
 It's like `mkdir -p`, but for `Ember.Object`.
 
 ## Installation
